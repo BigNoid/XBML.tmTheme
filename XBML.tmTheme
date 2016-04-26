@@ -66,7 +66,20 @@
 				<key>name</key>
 				<string>Info tag value</string>
 				<key>scope</key>
-				<string>support</string>
+				<string>entity.kodi.infolabel.dollar,entity.kodi.infolabel.localize,entity.kodi.infolabel.begin,support.function,entity.kodi.infolabel.end</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#00FFFF</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Params</string>
+				<key>scope</key>
+				<string>entity.kodi.includeparam.dollar,entity.kodi.includeparam.localize,entity.kodi.includeparam.begin,support.function,entity.kodi.includeparam.end,entity.kodi.param.dollar,entity.kodi.param.param,entity.kodi.param.begin,entity.kodi.param.id,entity.kodi.param.end</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
