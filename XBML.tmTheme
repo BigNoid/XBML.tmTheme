@@ -147,6 +147,28 @@
 					<string>#FFFFFF</string>
 				</dict>
 			</dict>
+			<dict>
+				<key>name</key>
+				<string>Variables</string>
+				<key>scope</key>
+				<string>entity.kodi.variable.localize, entity.kodi.variable.begin, entity.kodi.variable.dollar, entity.kodi.variable.end, storage.type</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#00FFFF</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Expressions</string>
+				<key>scope</key>
+				<string>entity.kodi.expression.localize, entity.kodi.expression.begin, entity.kodi.expression.dollar, entity.kodi.expression.end, storage.type</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#00FFFF</string>
+				</dict>
+			</dict>
 		</array>
 	</dict>
 </plist>
