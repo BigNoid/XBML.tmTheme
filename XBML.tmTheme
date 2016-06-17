@@ -40,19 +40,6 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Localize</string>
-				<key>scope</key>
-				<string>entity.kodi.label.dollar, entity.kodi.label.localize, entity.kodi.label.begin, entity.kodi.label.id, entity.kodi.label.end, entity.kodi.param</string>
-				<key>settings</key>
-				<dict>
-					<key>fontStyle</key>
-					<string></string>
-					<key>foreground</key>
-					<string>#00FFFF</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
 				<string>Boolean value</string>
 				<key>scope</key>
 				<string>constant.other.allcaps</string>
@@ -79,7 +66,7 @@
 				<key>name</key>
 				<string>Info tag value</string>
 				<key>scope</key>
-				<string>entity.kodi.infolabel, entity.kodi.label</string>
+				<string>entity.kodi.infolabel, entity.kodi.label, entity.kodi.variable</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
