@@ -79,7 +79,7 @@
 				<key>name</key>
 				<string>Info tag value</string>
 				<key>scope</key>
-				<string>entity.kodi.infolabel.dollar,entity.kodi.infolabel.localize,entity.kodi.infolabel.begin,support.function,entity.kodi.infolabel.end</string>
+				<string>entity.kodi.infolabel, entity.kodi.label</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
